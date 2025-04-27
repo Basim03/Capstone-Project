@@ -1,3 +1,3 @@
 # Financial-Fraud-detection
-Code base for the Rajasthan Hackathon project
+Code base for the 8th Sem Capstone project
 
